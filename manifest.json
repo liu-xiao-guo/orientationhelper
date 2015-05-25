@@ -1,0 +1,17 @@
+{
+    "name": "orientationhelper.liu-xiao-guo",
+    "description": "description of orientationhelper",
+    "architecture": "all",
+    "title": "orientationhelper",
+    "hooks": {
+        "orientationhelper": {
+            "apparmor": "orientationhelper.apparmor",
+            "desktop":  "orientationhelper.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
